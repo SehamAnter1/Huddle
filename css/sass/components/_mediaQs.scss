@@ -1,0 +1,25 @@
+@media(max-width:992px){
+    .footer{
+        .dev1 {
+            width: 50%!important;
+         }
+         .dev2 {
+            width: 47%!important;
+         }
+                .get-started{
+            padding-right: 0!important; 
+            padding-left: 0!important;
+        }
+    }
+    .large{
+        width: 47%!important;
+    }
+}
+@media(max-width:400px){
+    .footer{
+        bottom: -5px;
+    }
+    .footer .container{
+        display: block;
+    }
+}

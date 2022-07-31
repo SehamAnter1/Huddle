@@ -1,0 +1,16 @@
+/* footer */
+.footer{
+    background-image: url(../../../images/bg-footer-top-desktop.svg);
+    background-size: cover;
+    position: relative;
+    height: 49rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    bottom: -2px;
+    position: relative;
+    top: 100%;
+    width: 100%;
+    background-position: bottom;
+    overflow-x: hidden;
+}

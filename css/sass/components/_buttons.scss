@@ -1,0 +1,41 @@
+
+button:hover{
+    transition: all .3s ease-in-out;
+    transform:scale(1.07);
+    -webkit-transform:scale(1.07);
+    -moz-transform:scale(1.07);
+    -ms-transform:scale(1.07);
+    -o-transform:scale(1.07);
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}
+button:focus,input:focus{
+    box-shadow: 0 0 0 0.25rem rgb(255 82 193 / 14%)!important;
+}
+.social i:nth-child(1):hover {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+    color:rgb(38, 125, 255);
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}.social i:nth-child(2):hover {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+    color:rgb(233, 10, 114);
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}.social i:nth-child(3):hover {
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+    color:rgb(0, 215, 253);
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+}
